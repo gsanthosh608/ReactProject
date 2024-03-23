@@ -1,0 +1,16 @@
+.pair{
+    display: flex;
+    padding: 30px;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(168, 168, 232);
+    border: 20px groove rgb(238, 232, 65);
+    border-radius: 30px;
+}
+.pair > * {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.pair > * > * {
+    padding: 10px;
+}

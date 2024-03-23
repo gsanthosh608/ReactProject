@@ -1,0 +1,8 @@
+#pip{
+    padding: 30px;
+    height: 75%;
+    width: 100%;
+    background-color: rgb(103, 168, 194);
+    border: 20px groove rgb(165, 204, 93);
+    border-radius: 30px;
+}

@@ -1,0 +1,16 @@
+.hhii{
+    padding: 30px;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(168, 168, 232);
+    border: 20px groove rgb(238, 232, 65);
+    border-radius: 30px
+}
+.q{
+    color: rgb(92, 30, 207);
+}
+#p{
+    height: 8%;
+    width: 25%;
+    background-color: #9559a3;
+}

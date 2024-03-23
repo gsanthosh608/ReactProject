@@ -1,0 +1,12 @@
+.si{
+        padding: 30px;
+        height: 75%;
+        width: 100%;
+        background-color: gray;
+        border: 20px groove purple;
+        border-radius: 30px;
+}
+.q{
+        align-items: center;
+}
+   
